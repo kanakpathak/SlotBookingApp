@@ -2,7 +2,7 @@
 
 Commands to run the project:
 ### Install dependencies
-Clone the branch develop. After cloning go to root directory in command line and run command : *npm i --save*
+Clone the branch and go to root directory and run command : npm i
 
 ### Build project
 After all dependencies are installed run command to build: *npm run build*
