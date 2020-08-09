@@ -1,0 +1,28 @@
+.form {
+  display: flex;
+  /* background-color: #2e0854; */
+  justify-content: center;
+  height: 100vh;
+  background: rgb(26, 13, 82);
+  background: linear-gradient(
+    90deg,
+    rgba(26, 13, 82, 1) 0%,
+    rgba(71, 46, 99, 1) 64%,
+    rgba(128, 141, 162, 1) 100%
+  );
+}
+
+.userForm {
+  height: 50%;
+  background-color: white;
+  width: 50%;
+  top: 20%;
+  position: relative;
+  margin: 20px;
+  display: flex;
+  align-content: center;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  border-radius: 5px;
+}
